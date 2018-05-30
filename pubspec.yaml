@@ -1,0 +1,10 @@
+name: tash
+dependencies:
+  args: ^1.0.0
+  async: ^2.0.0
+  charcode: ^1.0.0
+  combinator: ^1.0.0
+  path: ^1.4.0
+  symbol_table: ^1.0.0
+executables:
+  tash: tash
